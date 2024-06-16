@@ -2,7 +2,6 @@
 from __future__ import unicode_literals
 from colorama import Fore, Style
 import yt_dlp
-import ffmpeg
 import sys
 import os
 
